@@ -10,7 +10,7 @@
 
 ### Primeiro Script
 
-**Rodando o Script**
+**Editando o Script**
 - nano arquivo.sh
 
 <pre>
