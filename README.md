@@ -1,6 +1,6 @@
 <h1 align="center">Shell Scripting</h1>
 		   
-### ImagemMagick
+##### ImagemMagick
 - Instalação: apt-get install imagemagick
 - Comando para converter arquivos através da feramenta: convert arquivo.jpg arquivo.png
 - Descompactar arquivos: unzip arquivo
